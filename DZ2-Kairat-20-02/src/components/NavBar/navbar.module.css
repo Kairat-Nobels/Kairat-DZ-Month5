@@ -1,0 +1,8 @@
+.flex{
+    display: flex;
+    gap: 15px;
+    justify-content: center;
+    align-items: center;
+    list-style-type: none;
+
+}
