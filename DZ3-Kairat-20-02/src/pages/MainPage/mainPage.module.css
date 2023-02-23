@@ -1,0 +1,19 @@
+.counterValue{
+    font-size: 46px;
+}
+.counterActions{
+    display: flex;
+    gap: 50px;
+    align-items: center;
+}
+.counterActions button{
+    background: #2185c8;
+    color: gold;
+    border: none;
+    font-size: 22px;
+    transition: .3s;
+}
+.counterActions button:hover{
+    transform: scale(1.2);
+    background: #0c9add;
+}
